@@ -28,7 +28,7 @@ jobs:
           npm run test --if-present
           
           #Zip
-          - name: Zip Release
+           name: Zip Release
             uses: TheDoctor0/zip-release@0.6.2
             with:
               filename: release.zip
