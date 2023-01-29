@@ -4,7 +4,7 @@
 # <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="35px"/>Guidlines:
 
 - First, ensure that your repository has been created and that your code has been pushed to GitHub's **Main branch**.
-- As a second step, go to <ins>[Azure.com](https://azure.microsoft.com/en-us/)</ins>
+- As a second step, go to <ins>[Azure .com](https://azure.microsoft.com?wt.mc_id=studentamb_184419)</ins>
 - <b><ins>Sign In</ins></b> with your credentials
 - Select <ins>"<b>Static Web Apps</b>"</ins> <ins>icon</ins>
 
