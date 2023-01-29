@@ -31,3 +31,8 @@
 <kbd>![image](https://user-images.githubusercontent.com/90326051/191848577-7a5e20fa-3dd7-4993-b620-8403e8e916ea.png)</kbd>
 
 - Finally, hit <ins>"**Review & Create**"</ins> button to start deployment.✨
+
+
+Find more information about:
+- <ins>[What is Azure Static Web Apps?](https://learn.microsoft.com/en-us/azure/static-web-apps/overview?wt.mc_id=studentamb_184419)</ins>
+- <ins>[Quickstart: Building your first static site with Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript&wt.mc_id=studentamb_184419)</ins>
